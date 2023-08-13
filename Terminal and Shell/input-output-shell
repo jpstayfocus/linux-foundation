@@ -5,10 +5,7 @@ The echo command in the Bash shell outputs a specified string of text. In this t
 Type echo hello into the shell and press ENTER.
 The command to complete this step:
 
-```
-echo hello
-
-```
+```echo hello```
 
 The hello string should be returned:
 
