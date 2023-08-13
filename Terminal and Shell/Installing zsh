@@ -3,4 +3,10 @@ Zsh is a shell that that takes all the goodness of all the others shell includin
 Esiest way to install zsh is by installing homebrew.
   - https://brew.sh
 Just copy and paste the link in iTerm2 terminal.
+Type the command brew install zsh in your Iterm2 Terminal
+To make check it has been install run "echo $SHELL" if you see /bin/bash, bash is still running, 
+to run zsh just type: chsh -s /bin/zsh + Enter, & confirm your password.
+
+
+
 
